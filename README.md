@@ -1,8 +1,8 @@
-# 🎙️ AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks
+# 🎙️ Voice Clone Detection
 
-### Smart India Hackathon 2026 | SIH26104
+### AI-powered mini project for detecting synthetic voice impersonation
 
-An AI-powered security system designed to detect and prevent **voice-cloning and synthetic voice impersonation attacks in real time**.
+This mini project is an AI-powered security system designed to detect and prevent **voice-cloning and synthetic voice impersonation attacks in real time**.
 
 Our solution combines **AI-generated voice detection, speaker verification, risk assessment, and automated prevention** to identify suspicious voice interactions and protect users from voice-based impersonation attacks.
 
@@ -10,13 +10,13 @@ Our solution combines **AI-generated voice detection, speaker verification, risk
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** https://nexora-voiceguard.streamlit.app/
+▶️ **Run locally:** `streamlit run app.py`
 
-🔗 **GitHub Repository:** https://github.com/kanchanverma01-bit/SIH26104-Voice-Clone-Detection
+🔗 **GitHub Repository:** https://github.com/Karthik-S-codes/Voice-Clone-Detection
 
 ---
 
-## 🚨 Problem Statement
+## 🚨 Why Voice Clone Detection Matters
 
 Advances in Generative AI have made it possible to clone a person's voice using only a small amount of voice data.
 
@@ -260,28 +260,20 @@ The proposed system can help protect voice-based interactions in:
 
 ---
 
-# 👥 Project
+# 👥 Mini Project
 
-**Smart India Hackathon 2026**
+**Project:** Voice Clone Detection
 
-**Problem ID:** SIH26104
-
-**Project:** AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks
-
-**Team:** Nexora
+**Repository:** Karthik-S-codes/Voice-Clone-Detection
 
 ---
 
 ## 🔗 Project Links
 
-### 🌐 Live Demo
-
-https://nexora-voiceguard.streamlit.app/
-
 ### 💻 GitHub Repository
 
-https://github.com/kanchanverma01-bit/SIH26104-Voice-Clone-Detection
+https://github.com/Karthik-S-codes/Voice-Clone-Detection
 
 ---
 
-> **Nexora — Detect the Fake. Verify the Identity. Prevent the Threat.**
+> **Detect the Fake. Verify the Identity. Prevent the Threat.**
